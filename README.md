@@ -1,4 +1,4 @@
-<p align="center"><img src="pics/logo.png" width=350px/></p>
+<p align="center"><img src="pics/logo.png" width=320px/></p>
 <p align="center">Love Bazaar - 一个便捷的征友信息搜索平台</p>
 
 ***
