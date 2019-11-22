@@ -7,7 +7,7 @@
 * https://lovebazaar.info/
 
 #### 主要功能
-- Metarial Design 风格, 讲究简洁实用。网站的一些设计包括介绍，参考了非常优秀的网站[SOV2EX](https://github.com/bynil/sov2ex)，这里致以诚挚感谢。
+- Metarial Design 风格, 讲究简洁实用。网页的一些设计包括介绍，参考了非常优秀的[SOV2EX](https://github.com/bynil/sov2ex)，这里致以诚挚感谢。
 
   <p align="left"><img src="pics/overview.png" width=800px/></p>
 
